@@ -1,4 +1,4 @@
-# How to create a Linux Virtual Machine with Azure SDK for .NET
+# How to create with Azure SDK for .NET a Virtual Machine with Windows Server and Visual Studio 2022 preinstalled
 
 **NOTE:** for more information about VM with Azure SDK for .NET visit the URL 
 
