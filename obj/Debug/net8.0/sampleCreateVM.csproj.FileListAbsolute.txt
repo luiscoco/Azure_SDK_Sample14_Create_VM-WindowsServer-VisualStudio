@@ -1,0 +1,56 @@
+C:\Azure SDK for .NET\sampleCreateVM\bin\Debug\net8.0\sampleCreateVM.exe
+C:\Azure SDK for .NET\sampleCreateVM\bin\Debug\net8.0\sampleCreateVM.deps.json
+C:\Azure SDK for .NET\sampleCreateVM\bin\Debug\net8.0\sampleCreateVM.runtimeconfig.json
+C:\Azure SDK for .NET\sampleCreateVM\bin\Debug\net8.0\sampleCreateVM.dll
+C:\Azure SDK for .NET\sampleCreateVM\bin\Debug\net8.0\sampleCreateVM.pdb
+C:\Azure SDK for .NET\sampleCreateVM\bin\Debug\net8.0\Azure.Core.dll
+C:\Azure SDK for .NET\sampleCreateVM\bin\Debug\net8.0\Azure.Identity.dll
+C:\Azure SDK for .NET\sampleCreateVM\bin\Debug\net8.0\Azure.ResourceManager.dll
+C:\Azure SDK for .NET\sampleCreateVM\bin\Debug\net8.0\Azure.ResourceManager.Compute.dll
+C:\Azure SDK for .NET\sampleCreateVM\bin\Debug\net8.0\Azure.ResourceManager.Network.dll
+C:\Azure SDK for .NET\sampleCreateVM\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Azure SDK for .NET\sampleCreateVM\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Azure SDK for .NET\sampleCreateVM\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Azure SDK for .NET\sampleCreateVM\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Azure SDK for .NET\sampleCreateVM\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Azure SDK for .NET\sampleCreateVM\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Azure SDK for .NET\sampleCreateVM\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Azure SDK for .NET\sampleCreateVM\obj\Debug\net8.0\sampleCreateVM.csproj.AssemblyReference.cache
+C:\Azure SDK for .NET\sampleCreateVM\obj\Debug\net8.0\sampleCreateVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azure SDK for .NET\sampleCreateVM\obj\Debug\net8.0\sampleCreateVM.AssemblyInfoInputs.cache
+C:\Azure SDK for .NET\sampleCreateVM\obj\Debug\net8.0\sampleCreateVM.AssemblyInfo.cs
+C:\Azure SDK for .NET\sampleCreateVM\obj\Debug\net8.0\sampleCreateVM.csproj.CoreCompileInputs.cache
+C:\Azure SDK for .NET\sampleCreateVM\obj\Debug\net8.0\sampleCreateVM.csproj.CopyComplete
+C:\Azure SDK for .NET\sampleCreateVM\obj\Debug\net8.0\sampleCreateVM.dll
+C:\Azure SDK for .NET\sampleCreateVM\obj\Debug\net8.0\refint\sampleCreateVM.dll
+C:\Azure SDK for .NET\sampleCreateVM\obj\Debug\net8.0\sampleCreateVM.pdb
+C:\Azure SDK for .NET\sampleCreateVM\obj\Debug\net8.0\sampleCreateVM.genruntimeconfig.cache
+C:\Azure SDK for .NET\sampleCreateVM\obj\Debug\net8.0\ref\sampleCreateVM.dll
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\bin\Debug\net8.0\sampleCreateVM.exe
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\bin\Debug\net8.0\sampleCreateVM.deps.json
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\bin\Debug\net8.0\sampleCreateVM.runtimeconfig.json
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\bin\Debug\net8.0\sampleCreateVM.dll
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\bin\Debug\net8.0\sampleCreateVM.pdb
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\bin\Debug\net8.0\Azure.ResourceManager.dll
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\bin\Debug\net8.0\Azure.ResourceManager.Compute.dll
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\bin\Debug\net8.0\Azure.ResourceManager.Network.dll
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\obj\Debug\net8.0\sampleCreateVM.csproj.AssemblyReference.cache
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\obj\Debug\net8.0\sampleCreateVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\obj\Debug\net8.0\sampleCreateVM.AssemblyInfoInputs.cache
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\obj\Debug\net8.0\sampleCreateVM.AssemblyInfo.cs
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\obj\Debug\net8.0\sampleCreateVM.csproj.CoreCompileInputs.cache
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\obj\Debug\net8.0\sampleCreateVM.csproj.CopyComplete
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\obj\Debug\net8.0\sampleCreateVM.dll
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\obj\Debug\net8.0\refint\sampleCreateVM.dll
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\obj\Debug\net8.0\sampleCreateVM.pdb
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\obj\Debug\net8.0\sampleCreateVM.genruntimeconfig.cache
+C:\Users\LEnriquez\3D Objects\Downloads\Azure_SDK_Sample13_Create_VM-main (1)\Azure_SDK_Sample13_Create_VM-main\obj\Debug\net8.0\ref\sampleCreateVM.dll
