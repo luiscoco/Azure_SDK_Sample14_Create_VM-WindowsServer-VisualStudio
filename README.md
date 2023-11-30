@@ -246,4 +246,3 @@ VirtualMachineResource vm = lro.Value;
 
 ## 4. 
 
-![image](https://github.com/luiscoco/Azure_SDK_Sample13_Create_VM/assets/32194879/e22d0bd5-838f-4f96-a245-19577c2b52de)
