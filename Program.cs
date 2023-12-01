@@ -166,7 +166,7 @@ VirtualMachineData input2 = new VirtualMachineData(resourceGroup.Data.Location)
     OSProfile = new VirtualMachineOSProfile()
     {
         AdminUsername = "luiscocoenrique1999",
-        AdminPassword = "Luiscoco123456",
+        AdminPassword = "Luiscoco23421",
         ComputerName = "myVM",
         WindowsConfiguration = new WindowsConfiguration()
         {
