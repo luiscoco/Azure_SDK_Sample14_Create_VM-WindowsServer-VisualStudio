@@ -268,6 +268,8 @@ dotnet run
 
 Go to the VM and download the RDP file in order to connect to the virtual machine.
 
+Select Native RDP
+
 ![image](https://github.com/luiscoco/Azure_SDK_Sample14_Create_VM-WindowsServer-VisualStudio/assets/32194879/e3b8828b-ab6e-4c3b-9247-bc51699ca332)
 
 Download the RDP file
