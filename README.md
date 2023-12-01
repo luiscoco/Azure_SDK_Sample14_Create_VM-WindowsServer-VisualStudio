@@ -145,12 +145,12 @@ NetworkSecurityGroupData nsgInput = new NetworkSecurityGroupData()
                     DestinationAddressPrefix = "*",
                     DestinationPortRange = "22", // SSH port
                 },
-                 new SecurityRuleData()
+                new SecurityRuleData()
                 {
                     Name = "AllowHTTP",
                     Priority = 110,
                     Access = SecurityRuleAccess.Allow,
-                    Direction = SecurityRuleDirection.Inbound,
+                    Direction = SecurityRuleDirection.Outbound,
                     Protocol = SecurityRuleProtocol.Tcp,
                     SourceAddressPrefix = "*",
                     SourcePortRange = "*",
@@ -162,12 +162,24 @@ NetworkSecurityGroupData nsgInput = new NetworkSecurityGroupData()
                     Name = "AllowHTTPS",
                     Priority = 120,
                     Access = SecurityRuleAccess.Allow,
-                    Direction = SecurityRuleDirection.Inbound,
+                    Direction = SecurityRuleDirection.Outbound,
                     Protocol = SecurityRuleProtocol.Tcp,
                     SourceAddressPrefix = "*",
                     SourcePortRange = "*",
                     DestinationAddressPrefix = "*",
                     DestinationPortRange = "443", // HTTPS port
+                },
+                new SecurityRuleData()
+                {
+                    Name = "AllowRDP",
+                    Priority = 130,
+                    Access = SecurityRuleAccess.Allow,
+                    Direction = SecurityRuleDirection.Inbound,
+                    Protocol = SecurityRuleProtocol.Tcp,
+                    SourceAddressPrefix = "*",
+                    SourcePortRange = "*",
+                    DestinationAddressPrefix = "*",
+                    DestinationPortRange = "3389", // RDP port
                 }
             }
 };
