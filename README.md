@@ -210,7 +210,7 @@ VirtualMachineData input2 = new VirtualMachineData(resourceGroup.Data.Location)
     OSProfile = new VirtualMachineOSProfile()
     {
         AdminUsername = "luiscocoenrique1999",
-        AdminPassword = "Luiscoco123456",
+        AdminPassword = "Luiscoco23421",
         ComputerName = "myVM",
         WindowsConfiguration = new WindowsConfiguration()
         {
@@ -256,5 +256,21 @@ ArmOperation<VirtualMachineResource> lro = await vmCollection.CreateOrUpdateAsyn
 VirtualMachineResource vm = lro.Value;
 ```
 
-## 4. 
+## 4. Build and run the application in VSCode
 
+Type this command to build and run the application
+
+```
+dotnet run
+```
+
+## 5. Connect to Azure portal and access to the VM
+
+Go to the VM and download the RDP file in order to connect to the virtual machine.
+
+Double click on the RDP file and enter the **username** and **password** that we set in the application C# code:
+
+```
+username:luiscocoenrique1999 
+password:Luiscoco23421 
+```
