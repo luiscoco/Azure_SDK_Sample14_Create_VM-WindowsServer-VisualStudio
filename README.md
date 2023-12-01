@@ -268,6 +268,12 @@ dotnet run
 
 Go to the VM and download the RDP file in order to connect to the virtual machine.
 
+![image](https://github.com/luiscoco/Azure_SDK_Sample14_Create_VM-WindowsServer-VisualStudio/assets/32194879/e3b8828b-ab6e-4c3b-9247-bc51699ca332)
+
+Download the RDP file
+
+![image](https://github.com/luiscoco/Azure_SDK_Sample14_Create_VM-WindowsServer-VisualStudio/assets/32194879/92fb87a3-249f-45a2-92cf-ec38ed27ea7a)
+
 Double click on the RDP file and enter the **username** and **password** that we set in the application C# code:
 
 ```
